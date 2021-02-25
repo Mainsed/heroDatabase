@@ -1,0 +1,20 @@
+.main{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+}
+.wrapMain{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    background-color: lemonchiffon;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+.wrapMain img{
+    max-height: 100px;
+    max-width: 100px;
+}
